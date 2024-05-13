@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  gt2:
+    image: gt2
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 3000:3000
