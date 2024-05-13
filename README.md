@@ -65,4 +65,4 @@ This project is licensed under the [Apache License](LICENSE).
 ---
 
 **Disclaimer:** Motor DApp X is under active development, and certain features may be subject to change. Always ensure that you are using the latest version of the DApp for the best experience and security.
-<img src="banner.jpeg">
+<img src="A.jpeg">
